@@ -31,7 +31,7 @@ window.onload = function() {
 		map.fitBounds(bounds);
 	};
 	
-	jsonp("http://linkdata.org/api/1/rdf1s1093i/meganebu_location_rdf.json?callback=" + getCallbackMethod(function(data) {
+	jsonp("https://linkdata.org/api/1/rdf1s1093i/meganebu_location_rdf.json?callback=" + getCallbackMethod(function(data) {
 //		dump(data);
 		showItems(data);
 	}));
@@ -263,7 +263,7 @@ var MapMarker = function(map, pos, colrgb) {
 //		draggable: true
 	};
 	if (colrgb != null) {
-		opt.icon = "http://chart.apis.google.com/chart?chst=d_map_pin_letter&chld=" + " " + "|" + colrgb + "|FFFFFF";
+		opt.icon = "https://chart.apis.google.com/chart?chst=d_map_pin_letter&chld=" + " " + "|" + colrgb + "|FFFFFF";
 	}
 	this.marker = new google.maps.Marker(opt);
 	this.marker.parent = this;
@@ -456,7 +456,7 @@ ANIME：<a href=http://mgnb.tv/ target=_blank>「メガネブ！」 / "MEGANEBU!
 「メガネブ！」</a><br>
 -->
 <br>
-<div id="cc">CC BY <a href=http://fukuno.jig.jp/ target=_blank>fukuno.jig.jp</a></div>
+<div id="cc">CC BY <a href=http://fukuno.jig.jp/1755 target=_blank>fukuno.jig.jp</a></div>
 
 </body>
 </html>
