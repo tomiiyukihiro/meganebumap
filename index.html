@@ -31,10 +31,17 @@ window.onload = function() {
 		map.fitBounds(bounds);
 	};
 	
+	window.meganebu = function(data) {
+		showItems(data);
+	};
+	jsonp("meganebu_location_rdf.json");
+	/*
 	jsonp("https://linkdata.org/api/1/rdf1s1093i/meganebu_location_rdf.json?callback=" + getCallbackMethod(function(data) {
 //		dump(data);
 		showItems(data);
 	}));
+	*/
+	
 //	xml2json("http://www.city.echizen.lg.jp/office/010/010/echizen-application_d/fil/etizencity-kanko.xml", "SJIS", );
 	
 	var showItems = function(data) {

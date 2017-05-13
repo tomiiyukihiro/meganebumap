@@ -1,0 +1,2094 @@
+meganebu({
+
+	"http://linkdata.org/resource/rdf1s1093i#2" : { 
+		"http://www.w3.org/2000/01/rdf-schema#label" : [ 
+			{ "value" : "2",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#title" : [ 
+			{ "value" : "Sabae Station",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "鯖江駅前",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#url" : [ 
+			{ "value" : "http://www.jr-odekake.net/eki/timetable.php?id=0541426",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#scene" : [ 
+			{ "value" : "opening",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "オープンニング",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#image" : [ 
+			{ "value" : "http://sabae.cc/data/meganebu/meganebu-2.jpg",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#lat" : [ 
+			{ "value" : "35.9434129",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#long" : [ 
+			{ "value" : "136.1885753",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		]
+	} ,
+	"http://linkdata.org/resource/rdf1s1093i#3" : { 
+		"http://www.w3.org/2000/01/rdf-schema#label" : [ 
+			{ "value" : "3",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#title" : [ 
+			{ "value" : "Tannan High School",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "丹南高校前",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#url" : [ 
+			{ "value" : "http://www.tannan-h.ed.jp/",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#scene" : [ 
+			{ "value" : "opening",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "オープンニング",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#image" : [ 
+			{ "value" : "http://sabae.cc/data/meganebu/meganebu-3.jpg",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#lat" : [ 
+			{ "value" : "35.9524038",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#long" : [ 
+			{ "value" : "136.1683897",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		]
+	} ,
+	"http://linkdata.org/resource/rdf1s1093i#4" : { 
+		"http://www.w3.org/2000/01/rdf-schema#label" : [ 
+			{ "value" : "4",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#title" : [ 
+			{ "value" : "Fukui train - crossing trains",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "入れ違う福井鉄道",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#url" : [ 
+			{ "value" : "http://www.fukutetsu.jp/",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#scene" : [ 
+			{ "value" : "opening",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "オープンニング",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#image" : [ 
+			{ "value" : "http://sabae.cc/data/meganebu/meganebu-4.jpg",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#lat" : [ 
+			{ "value" : "35.9465821",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#long" : [ 
+			{ "value" : "136.1817841",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		]
+	} ,
+	"http://linkdata.org/resource/rdf1s1093i#5" : { 
+		"http://www.w3.org/2000/01/rdf-schema#label" : [ 
+			{ "value" : "5",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#title" : [ 
+			{ "value" : "Europian Kimuraya",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "ヨーロッパンキムラヤ",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#url" : [ 
+			{ "value" : "http://e-kimuraya.com/",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#scene" : [ 
+			{ "value" : "opening",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "オープンニング",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#image" : [ 
+			{ "value" : "http://sabae.cc/data/meganebu/meganebu-5.jpg",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#lat" : [ 
+			{ "value" : "35.9462097",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#long" : [ 
+			{ "value" : "136.1871671",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		]
+	} ,
+	"http://linkdata.org/resource/rdf1s1093i#8" : { 
+		"http://www.w3.org/2000/01/rdf-schema#label" : [ 
+			{ "value" : "8",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#title" : [ 
+			{ "value" : "Buono Yumekabou",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "ボーノ夢菓房（ゆめかぼう）",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#url" : [ 
+			{ "value" : "http://www.fukuishimbun.co.jp/localnews/society/47517.html",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#scene" : [ 
+			{ "value" : "opening",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "オープンニング",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#image" : [ 
+			{ "value" : "http://sabae.cc/data/meganebu/meganebu-8.jpg",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#lat" : [ 
+			{ "value" : "35.9462011",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#long" : [ 
+			{ "value" : "136.1872208",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		]
+	} ,
+	"http://linkdata.org/resource/rdf1s1093i#9" : { 
+		"http://www.w3.org/2000/01/rdf-schema#label" : [ 
+			{ "value" : "9",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#title" : [ 
+			{ "value" : "rice field and Fukui train",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "田んぼと福鉄",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#url" : [ 
+			{ "value" : "http://www.fukutetsu.jp/",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#scene" : [ 
+			{ "value" : "opening",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "オープンニング",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#image" : [ 
+			{ "value" : "http://sabae.cc/data/meganebu/meganebu-9.jpg",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#lat" : [ 
+			{ "value" : "35.9309779",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#long" : [ 
+			{ "value" : "136.173284",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		]
+	} ,
+	"http://linkdata.org/resource/rdf1s1093i#10" : { 
+		"http://www.w3.org/2000/01/rdf-schema#label" : [ 
+			{ "value" : "10",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#title" : [ 
+			{ "value" : "SUNDOME from JR train",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "JRから見るサンドーム",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#url" : [ 
+			{ "value" : "http://www.sankan.jp/sundome/",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#scene" : [ 
+			{ "value" : "opening",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "オープンニング",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#image" : [ 
+			{ "value" : "http://sabae.cc/data/meganebu/meganebu-10.jpg",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#lat" : [ 
+			{ "value" : "35.9304566",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#long" : [ 
+			{ "value" : "136.1830902",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		]
+	} ,
+	"http://linkdata.org/resource/rdf1s1093i#11" : { 
+		"http://www.w3.org/2000/01/rdf-schema#label" : [ 
+			{ "value" : "11",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#title" : [ 
+			{ "value" : "AKIYOSHI",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "福井名物やきとりの名門秋吉",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#url" : [ 
+			{ "value" : "http://www.akiyoshi.co.jp/",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#scene" : [ 
+			{ "value" : "opening",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "オープンニング",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#image" : [ 
+			{ "value" : "http://sabae.cc/data/meganebu/meganebu-11.jpg",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#lat" : [ 
+			{ "value" : "35.9427658",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#long" : [ 
+			{ "value" : "136.1930412",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		]
+	} ,
+	"http://linkdata.org/resource/rdf1s1093i#12" : { 
+		"http://www.w3.org/2000/01/rdf-schema#label" : [ 
+			{ "value" : "12",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#title" : [ 
+			{ "value" : "Glasses Russian Cake",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "メガネロシアケーキ",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#url" : [ 
+			{ "value" : "http://www.megane.gr.jp/museum/?page_id=2431",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#scene" : [ 
+			{ "value" : "opening",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "オープンニング",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#image" : [ 
+			{ "value" : "http://sabae.cc/data/meganebu/meganebu-12.jpg",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#lat" : [ 
+			{ "value" : "35.9427093",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#long" : [ 
+			{ "value" : "136.1989367",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		]
+	} ,
+	"http://linkdata.org/resource/rdf1s1093i#13" : { 
+		"http://www.w3.org/2000/01/rdf-schema#label" : [ 
+			{ "value" : "13",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#title" : [ 
+			{ "value" : "SABAE Glasses Town",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "めがねのまちさばえ",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#url" : [ 
+			{ "value" : "http://www.city.sabae.fukui.jp/users/monodukuri/sabaebrand/meganemonument/",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#scene" : [ 
+			{ "value" : "opening",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "オープンニング",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#image" : [ 
+			{ "value" : "http://sabae.cc/data/meganebu/meganebu-13.jpg",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#lat" : [ 
+			{ "value" : "35.9432761",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#long" : [ 
+			{ "value" : "136.1884009",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		]
+	} ,
+	"http://linkdata.org/resource/rdf1s1093i#14" : { 
+		"http://www.w3.org/2000/01/rdf-schema#label" : [ 
+			{ "value" : "14",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#title" : [ 
+			{ "value" : "SAWAYAKA drink at Shirakaba",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "さわやかメロンが飲めるホルモン焼き屋さん白樺",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#url" : [ 
+			{ "value" : "http://urala.jp/gourmet/shop/detail.php?id=3939",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#scene" : [ 
+			{ "value" : "opening",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "オープンニング",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#image" : [ 
+			{ "value" : "http://sabae.cc/data/meganebu/meganebu-14.jpg",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#lat" : [ 
+			{ "value" : "35.9760203",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#long" : [ 
+			{ "value" : "136.1768961",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		]
+	} ,
+	"http://linkdata.org/resource/rdf1s1093i#15" : { 
+		"http://www.w3.org/2000/01/rdf-schema#label" : [ 
+			{ "value" : "15",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#title" : [ 
+			{ "value" : "viewspot to MEGANE KAIKAN",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "めがね会館のめがねを見るスポット",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#url" : [ 
+			{ "value" : "http://www.city.sabae.fukui.jp/pageview.html?id=11680",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#scene" : [ 
+			{ "value" : "opening",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "オープンニング",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#image" : [ 
+			{ "value" : "http://sabae.cc/data/meganebu/meganebu-15.jpg",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#lat" : [ 
+			{ "value" : "35.94368",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#long" : [ 
+			{ "value" : "136.1976653",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		]
+	} ,
+	"http://linkdata.org/resource/rdf1s1093i#16" : { 
+		"http://www.w3.org/2000/01/rdf-schema#label" : [ 
+			{ "value" : "16",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#title" : [ 
+			{ "value" : "Place of SABAE at JAPAN",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "鯖江の場所",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#scene" : [ 
+			{ "value" : "opening",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "オープンニング",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#image" : [ 
+			{ "value" : "http://sabae.cc/data/meganebu/meganebu-16.jpg",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#lat" : [ 
+			{ "value" : "35.9565532",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#long" : [ 
+			{ "value" : "136.1844742",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		]
+	} ,
+	"http://linkdata.org/resource/rdf1s1093i#17" : { 
+		"http://www.w3.org/2000/01/rdf-schema#label" : [ 
+			{ "value" : "17",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#title" : [ 
+			{ "value" : "ASAKURA ruins",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "朝倉氏遺跡（遺跡の一部は鯖江にあります）",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#url" : [ 
+			{ "value" : "http://www3.fctv.ne.jp/~asakura/",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#scene" : [ 
+			{ "value" : "opening",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "オープンニング",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#image" : [ 
+			{ "value" : "http://sabae.cc/data/meganebu/meganebu-17.jpg",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#lat" : [ 
+			{ "value" : "35.999494",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#long" : [ 
+			{ "value" : "136.295559",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		]
+	} ,
+	"http://linkdata.org/resource/rdf1s1093i#19" : { 
+		"http://www.w3.org/2000/01/rdf-schema#label" : [ 
+			{ "value" : "19",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#title" : [ 
+			{ "value" : "Tannan High School",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "舞台は丹南高校がモデルとか",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#url" : [ 
+			{ "value" : "http://www.tannan-h.ed.jp/",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#scene" : [ 
+			{ "value" : "opening",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "オープンニング",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#image" : [ 
+			{ "value" : "http://sabae.cc/data/meganebu/meganebu-19.jpg",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#lat" : [ 
+			{ "value" : "35.953724",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#long" : [ 
+			{ "value" : "136.1688618",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		]
+	} ,
+	"http://linkdata.org/resource/rdf1s1093i#20" : { 
+		"http://www.w3.org/2000/01/rdf-schema#label" : [ 
+			{ "value" : "20",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#title" : [ 
+			{ "value" : "SUNDOME and OUZAN Tumulus",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "西山公園から見る王山古墳とサンドーム",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#url" : [ 
+			{ "value" : "http://www3.city.sabae.fukui.jp/vod/takara/6/bunkazai/1.html",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#scene" : [ 
+			{ "value" : "ending",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "エンディング",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#image" : [ 
+			{ "value" : "http://sabae.cc/data/meganebu/meganebu-20.jpg",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#lat" : [ 
+			{ "value" : "35.9489066",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#long" : [ 
+			{ "value" : "136.1813789",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		]
+	} ,
+	"http://linkdata.org/resource/rdf1s1093i#21" : { 
+		"http://www.w3.org/2000/01/rdf-schema#label" : [ 
+			{ "value" : "21",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#title" : [ 
+			{ "value" : "Fukui train with NISHIYAMA park",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "西山公園脇を通る福鉄",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#url" : [ 
+			{ "value" : "http://www.fukutetsu.jp/",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#scene" : [ 
+			{ "value" : "ending",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "エンディング",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#image" : [ 
+			{ "value" : "http://sabae.cc/data/meganebu/meganebu-21.jpg",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#lat" : [ 
+			{ "value" : "35.9500162",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#long" : [ 
+			{ "value" : "136.1846083",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		]
+	} ,
+	"http://linkdata.org/resource/rdf1s1093i#23" : { 
+		"http://www.w3.org/2000/01/rdf-schema#label" : [ 
+			{ "value" : "23",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#title" : [ 
+			{ "value" : "Hakusan shine",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "白山神社（長泉寺町）",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#scene" : [ 
+			{ "value" : "ending",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "エンディング",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#image" : [ 
+			{ "value" : "http://sabae.cc/data/meganebu/meganebu-23.jpg",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#lat" : [ 
+			{ "value" : "35.954205",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#long" : [ 
+			{ "value" : "136.186834",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		]
+	} ,
+	"http://linkdata.org/resource/rdf1s1093i#25" : { 
+		"http://www.w3.org/2000/01/rdf-schema#label" : [ 
+			{ "value" : "25",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#title" : [ 
+			{ "value" : "making glasses shape strap at MEGANE KAIKAN",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "めがね会館 めがね型ストラップ作り体験",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#url" : [ 
+			{ "value" : "http://www.megane.gr.jp/museum/?page_id=24",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#scene" : [ 
+			{ "value" : "ending",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "エンディング",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#image" : [ 
+			{ "value" : "http://sabae.cc/data/meganebu/meganebu-25.jpg",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#lat" : [ 
+			{ "value" : "35.942579",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#long" : [ 
+			{ "value" : "136.1990654",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		]
+	} ,
+	"http://linkdata.org/resource/rdf1s1093i#26" : { 
+		"http://www.w3.org/2000/01/rdf-schema#label" : [ 
+			{ "value" : "26",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#title" : [ 
+			{ "value" : "INORINOMICHI road",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "祈りの道",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#url" : [ 
+			{ "value" : "http://www.city.sabae.fukui.jp/pageview.html?id=13445",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#scene" : [ 
+			{ "value" : "ending",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "エンディング",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#image" : [ 
+			{ "value" : "http://sabae.cc/data/meganebu/meganebu-26.jpg",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#lat" : [ 
+			{ "value" : "35.9518509",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#long" : [ 
+			{ "value" : "136.182146",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		]
+	} ,
+	"http://linkdata.org/resource/rdf1s1093i#27" : { 
+		"http://www.w3.org/2000/01/rdf-schema#label" : [ 
+			{ "value" : "27",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#title" : [ 
+			{ "value" : "Chime of MUSUBI",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "結びのチャイム",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#url" : [ 
+			{ "value" : "http://www.sabaecci.or.jp/web/chime/",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#scene" : [ 
+			{ "value" : "ending",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "エンディング",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#image" : [ 
+			{ "value" : "http://sabae.cc/data/meganebu/meganebu-27.jpg",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#lat" : [ 
+			{ "value" : "35.9496101",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#long" : [ 
+			{ "value" : "136.1811241",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		]
+	} ,
+	"http://linkdata.org/resource/rdf1s1093i#28" : { 
+		"http://www.w3.org/2000/01/rdf-schema#label" : [ 
+			{ "value" : "28",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#title" : [ 
+			{ "value" : "flower Cosmos",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "コスモス",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#url" : [ 
+			{ "value" : "http://www3.city.sabae.fukui.jp/Dothe/do_the25/25index.html",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#scene" : [ 
+			{ "value" : "ending",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "エンディング",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#image" : [ 
+			{ "value" : "http://sabae.cc/data/meganebu/meganebu-28.jpg",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#lat" : [ 
+			{ "value" : "35.9371206",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#long" : [ 
+			{ "value" : "136.199426",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		]
+	} ,
+	"http://linkdata.org/resource/rdf1s1093i#29" : { 
+		"http://www.w3.org/2000/01/rdf-schema#label" : [ 
+			{ "value" : "29",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#title" : [ 
+			{ "value" : "Biwabashi bridge",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "穴田川枇杷橋（びわばし）",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#url" : [ 
+			{ "value" : "http://www.city.sabae.fukui.jp/users/monodukuri/sabaebrand/meganemonument/",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#scene" : [ 
+			{ "value" : "ending",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "エンディング",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#image" : [ 
+			{ "value" : "http://sabae.cc/data/meganebu/meganebu-29.jpg",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#lat" : [ 
+			{ "value" : "35.9430785",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#long" : [ 
+			{ "value" : "136.1998996",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		]
+	} ,
+	"http://linkdata.org/resource/rdf1s1093i#31" : { 
+		"http://www.w3.org/2000/01/rdf-schema#label" : [ 
+			{ "value" : "31",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#title" : [ 
+			{ "value" : "Fukui train Mizuochi crossing",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "福井鉄道水落駅踏切",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#url" : [ 
+			{ "value" : "http://www.fukutetsu.jp/",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#scene" : [ 
+			{ "value" : "ending",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "エンディング",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#image" : [ 
+			{ "value" : "http://sabae.cc/data/meganebu/meganebu-31.jpg",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#lat" : [ 
+			{ "value" : "35.962676",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#long" : [ 
+			{ "value" : "136.182891",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		]
+	} ,
+	"http://linkdata.org/resource/rdf1s1093i#33" : { 
+		"http://www.w3.org/2000/01/rdf-schema#label" : [ 
+			{ "value" : "33",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#title" : [ 
+			{ "value" : "Sabae Sweets & MUSEUM CAFÉ - MEGANE KAIKAN 2F",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "めがね会館2F Sabae Sweets & MUSEUM CAFÉ",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#url" : [ 
+			{ "value" : "http://www.megane.gr.jp/museum/?page_id=2431",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#scene" : [ 
+			{ "value" : "ending",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "エンディング",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#image" : [ 
+			{ "value" : "http://sabae.cc/data/meganebu/meganebu-33.jpg",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#lat" : [ 
+			{ "value" : "35.9427223",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#long" : [ 
+			{ "value" : "136.1987704",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		]
+	} ,
+	"http://linkdata.org/resource/rdf1s1093i#35" : { 
+		"http://www.w3.org/2000/01/rdf-schema#label" : [ 
+			{ "value" : "35",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#title" : [ 
+			{ "value" : "Sabae shopping street",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "さばえ街なか商店街",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#url" : [ 
+			{ "value" : "http://sabae.org/",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#scene" : [ 
+			{ "value" : "ending",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "エンディング",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#image" : [ 
+			{ "value" : "http://sabae.cc/data/meganebu/meganebu-35.jpg",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#lat" : [ 
+			{ "value" : "35.9459644",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#long" : [ 
+			{ "value" : "136.1854344",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		]
+	} ,
+	"http://linkdata.org/resource/rdf1s1093i#36" : { 
+		"http://www.w3.org/2000/01/rdf-schema#label" : [ 
+			{ "value" : "36",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#title" : [ 
+			{ "value" : "MEGANE Big board at Hashidate mountain",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "橋立山眼鏡広告看板",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#url" : [ 
+			{ "value" : "http://www.city.sabae.fukui.jp/users/monodukuri/sabaebrand/meganemonument/",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#scene" : [ 
+			{ "value" : "ending",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "エンディング",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#image" : [ 
+			{ "value" : "http://sabae.cc/data/meganebu/meganebu-36.jpg",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#lat" : [ 
+			{ "value" : "35.9761134",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#long" : [ 
+			{ "value" : "136.2056797",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		]
+	} ,
+	"http://linkdata.org/resource/rdf1s1093i#37" : { 
+		"http://www.w3.org/2000/01/rdf-schema#label" : [ 
+			{ "value" : "37",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#title" : [ 
+			{ "value" : "Sabae City Hall",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "鯖江市役所",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#url" : [ 
+			{ "value" : "http://www.city.sabae.fukui.jp/",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#scene" : [ 
+			{ "value" : "ending",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "エンディング",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#image" : [ 
+			{ "value" : "http://sabae.cc/data/meganebu/meganebu-37.jpg",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#lat" : [ 
+			{ "value" : "35.9561102",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#long" : [ 
+			{ "value" : "136.1848309",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		]
+	} ,
+	"http://linkdata.org/resource/rdf1s1093i#38" : { 
+		"http://www.w3.org/2000/01/rdf-schema#label" : [ 
+			{ "value" : "38",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#title" : [ 
+			{ "value" : "Joshoji shine (a head of Shinsyu party)",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "誠照寺（真宗誠照寺派本山）",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#url" : [ 
+			{ "value" : "http://www.jyosyoji.jp/",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#scene" : [ 
+			{ "value" : "ending",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "エンディング",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#image" : [ 
+			{ "value" : "http://sabae.cc/data/meganebu/meganebu-38.jpg",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#lat" : [ 
+			{ "value" : "35.946701",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#long" : [ 
+			{ "value" : "136.184323",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		]
+	} ,
+	"http://linkdata.org/resource/rdf1s1093i#39" : { 
+		"http://www.w3.org/2000/01/rdf-schema#label" : [ 
+			{ "value" : "39",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#title" : [ 
+			{ "value" : "SUNDOME FUKUI",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "サンドーム福井",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#url" : [ 
+			{ "value" : "http://www.sankan.jp/sundome/",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#scene" : [ 
+			{ "value" : "ending",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "エンディング",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#image" : [ 
+			{ "value" : "http://sabae.cc/data/meganebu/meganebu-39.jpg",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#lat" : [ 
+			{ "value" : "35.9306477",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#long" : [ 
+			{ "value" : "136.1874246",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		]
+	} ,
+	"http://linkdata.org/resource/rdf1s1093i#40" : { 
+		"http://www.w3.org/2000/01/rdf-schema#label" : [ 
+			{ "value" : "40",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#title" : [ 
+			{ "value" : "Asouzu river - Ishikiri bridge",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "浅水川（あそうずがわ）石切橋",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#url" : [ 
+			{ "value" : "http://www.city.sabae.fukui.jp/users/monodukuri/sabaebrand/meganemonument/",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#scene" : [ 
+			{ "value" : "ending",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "エンディング",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#image" : [ 
+			{ "value" : "http://sabae.cc/data/meganebu/meganebu-40.jpg",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#lat" : [ 
+			{ "value" : "35.9715376",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#long" : [ 
+			{ "value" : "136.2050038",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		]
+	} ,
+	"http://linkdata.org/resource/rdf1s1093i#41" : { 
+		"http://www.w3.org/2000/01/rdf-schema#label" : [ 
+			{ "value" : "41",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#title" : [ 
+			{ "value" : "Lesser panda statue",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "西山公園レッサーパンダ像",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#url" : [ 
+			{ "value" : "http://www.city.sabae.fukui.jp/pageview.html?id=4898",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#scene" : [ 
+			{ "value" : "ending",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "エンディング",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#image" : [ 
+			{ "value" : "http://sabae.cc/data/meganebu/meganebu-41.jpg",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#lat" : [ 
+			{ "value" : "35.9492888",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#long" : [ 
+			{ "value" : "136.1814862",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		]
+	} ,
+	"http://linkdata.org/resource/rdf1s1093i#42" : { 
+		"http://www.w3.org/2000/01/rdf-schema#label" : [ 
+			{ "value" : "42",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#title" : [ 
+			{ "value" : "Open space of MUSUBI",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "結びの広場",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#url" : [ 
+			{ "value" : "http://www.city.sabae.fukui.jp/pageview.html?id=4898",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#scene" : [ 
+			{ "value" : "ending",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "エンディング",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#image" : [ 
+			{ "value" : "http://sabae.cc/data/meganebu/meganebu-42.jpg",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#lat" : [ 
+			{ "value" : "35.950027",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#long" : [ 
+			{ "value" : "136.1811536",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		]
+	} ,
+	"http://linkdata.org/resource/rdf1s1093i#43" : { 
+		"http://www.w3.org/2000/01/rdf-schema#label" : [ 
+			{ "value" : "43",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#title" : [ 
+			{ "value" : "1F Hall at MEGANE KAIKAN",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "めがね会館1Fロビー天井",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#url" : [ 
+			{ "value" : "http://www.megane.gr.jp/museum/",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#scene" : [ 
+			{ "value" : "ending",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "エンディング",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#image" : [ 
+			{ "value" : "http://sabae.cc/data/meganebu/meganebu-43.jpg",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#lat" : [ 
+			{ "value" : "35.9427462",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#long" : [ 
+			{ "value" : "136.1988857",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		]
+	} ,
+	"http://linkdata.org/resource/rdf1s1093i#44" : { 
+		"http://www.w3.org/2000/01/rdf-schema#label" : [ 
+			{ "value" : "44",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#title" : [ 
+			{ "value" : "Daifuku Ampan bread - Europian Kimuraya",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "ヨーロッパン大福あんぱん",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#url" : [ 
+			{ "value" : "http://e-kimuraya.com/daifuku.html",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#scene" : [ 
+			{ "value" : "ending",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "エンディング",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#image" : [ 
+			{ "value" : "http://sabae.cc/data/meganebu/meganebu-44.jpg",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#lat" : [ 
+			{ "value" : "35.9461793",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#long" : [ 
+			{ "value" : "136.1872261",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		]
+	} ,
+	"http://linkdata.org/resource/rdf1s1093i#45" : { 
+		"http://www.w3.org/2000/01/rdf-schema#label" : [ 
+			{ "value" : "45",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#title" : [ 
+			{ "value" : "bell of love",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "西山公園展望台、愛の鐘",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#url" : [ 
+			{ "value" : "http://www.city.sabae.fukui.jp/pageview.html?id=4898",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#scene" : [ 
+			{ "value" : "ending",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "エンディング",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#image" : [ 
+			{ "value" : "http://sabae.cc/data/meganebu/meganebu-45.jpg",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#lat" : [ 
+			{ "value" : "35.952383",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#long" : [ 
+			{ "value" : "136.181134",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		]
+	} ,
+	"http://linkdata.org/resource/rdf1s1093i#46" : { 
+		"http://www.w3.org/2000/01/rdf-schema#label" : [ 
+			{ "value" : "46",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#title" : [ 
+			{ "value" : "Glasses Museum of MEGANE KAIKAN 3F",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "めがね会館3Fめがね博物館",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#url" : [ 
+			{ "value" : "http://www.megane.gr.jp/museum/?page_id=26",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#scene" : [ 
+			{ "value" : "ending",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "エンディング",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#image" : [ 
+			{ "value" : "http://sabae.cc/data/meganebu/meganebu-46.jpg",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#lat" : [ 
+			{ "value" : "35.9427006",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#long" : [ 
+			{ "value" : "136.1988481",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		]
+	} ,
+	"http://linkdata.org/resource/rdf1s1093i#47" : { 
+		"http://www.w3.org/2000/01/rdf-schema#label" : [ 
+			{ "value" : "47",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#title" : [ 
+			{ "value" : "3.3m high bride overpass Fukui train",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "福鉄3.3m陸橋",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#url" : [ 
+			{ "value" : "http://www.fukutetsu.jp/",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#scene" : [ 
+			{ "value" : "ending",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "エンディング",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#image" : [ 
+			{ "value" : "http://sabae.cc/data/meganebu/meganebu-47.jpg",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#lat" : [ 
+			{ "value" : "35.933076",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#long" : [ 
+			{ "value" : "136.173734",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		]
+	} ,
+	"http://linkdata.org/resource/rdf1s1093i#48" : { 
+		"http://www.w3.org/2000/01/rdf-schema#label" : [ 
+			{ "value" : "48",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#title" : [ 
+			{ "value" : "SABAEDOG",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "サバエドッグ",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#url" : [ 
+			{ "value" : "https://www.facebook.com/sabaedog",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#scene" : [ 
+			{ "value" : "ending",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "エンディング",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#image" : [ 
+			{ "value" : "http://sabae.cc/data/meganebu/meganebu-48.jpg",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#lat" : [ 
+			{ "value" : "35.9464747",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#long" : [ 
+			{ "value" : "136.1856141",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		]
+	} ,
+	"http://linkdata.org/resource/rdf1s1093i#49" : { 
+		"http://www.w3.org/2000/01/rdf-schema#label" : [ 
+			{ "value" : "49",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#title" : [ 
+			{ "value" : "Open space of MUSUBI",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "結びの広場",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#url" : [ 
+			{ "value" : "http://www.city.sabae.fukui.jp/pageview.html?id=4898",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#scene" : [ 
+			{ "value" : "ending",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "エンディング",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#image" : [ 
+			{ "value" : "http://sabae.cc/data/meganebu/meganebu-49.jpg",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#lat" : [ 
+			{ "value" : "35.9495841",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#long" : [ 
+			{ "value" : "136.1810463",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		]
+	} ,
+	"http://linkdata.org/resource/rdf1s1093i#50" : { 
+		"http://www.w3.org/2000/01/rdf-schema#label" : [ 
+			{ "value" : "50",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#title" : [ 
+			{ "value" : "monument at Sabae Station",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "JR鯖江駅前モニュメント",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#url" : [ 
+			{ "value" : "http://www.city.sabae.fukui.jp/users/monodukuri/sabaebrand/meganemonument/",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#scene" : [ 
+			{ "value" : "ending",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "エンディング",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#image" : [ 
+			{ "value" : "http://sabae.cc/data/meganebu/meganebu-50.jpg",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#lat" : [ 
+			{ "value" : "35.9432153",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#long" : [ 
+			{ "value" : "136.1884251",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		]
+	} ,
+	"http://linkdata.org/resource/rdf1s1093i#51" : { 
+		"http://www.w3.org/2000/01/rdf-schema#label" : [ 
+			{ "value" : "51",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#title" : [ 
+			{ "value" : "Sabae Sweets & MUSEUM CAFÉ at MEGANE KAIKAN 2F",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "めがね会館2F Sabae Sweets & MUSEUM CAFÉ",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#url" : [ 
+			{ "value" : "http://www.megane.gr.jp/museum/?page_id=2431",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#scene" : [ 
+			{ "value" : "ending",
+			  "type" : "literal",
+			  "lang" : "en" 
+			} , 
+			{ "value" : "エンディング",
+			  "type" : "literal",
+			  "lang" : "ja" 
+			}
+		] , 
+		"http://linkdata.org/property/rdf1s1093i#image" : [ 
+			{ "value" : "http://sabae.cc/data/meganebu/meganebu-51.jpg",
+			  "type" : "uri"  
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#lat" : [ 
+			{ "value" : "35.9427071",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		] , 
+		"http://www.w3.org/2003/01/geo/wgs84_pos#long" : [ 
+			{ "value" : "136.1987757",
+			  "type" : "literal",
+			  "datatype" : "http://www.w3.org/2001/XMLSchema#float" 
+			}
+		]
+	}
+}
+);
